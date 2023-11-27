@@ -1,4 +1,4 @@
-👋 Hello! I'm @Di3G0L1, a technology, video games, and sports enthusiast from Chile. 
+👋 **Hello! I'm @Di3G0L1, a technology, video games, and sports enthusiast from Chile. 
     I love spending time with friends and am always seeking new experiences and learnings.
 
 👀 My interest lies in the fascinating world of programming. I'm studying to become a Programming Analyst at DUOC UC, 
@@ -13,4 +13,4 @@
     passionate about technology would be an enriching experience.
 
 📫 How to contact me? You can find me on Instagram as @dieg0l_acdc, where I share my journey in the programming world and other aspects of my life. 
-    I'm eager to connect with people who share similar interests and are willing to explore the exciting world of technology with me!
+    I'm eager to connect with people who share similar interests and are willing to explore the exciting world of technology with me!**
