@@ -2,7 +2,7 @@
     I love spending time with friends and am always seeking new experiences and learnings.**
 
 👀 **My interest lies in the fascinating world of programming. I'm studying to become a Programming Analyst at DUOC UC, 
-    and currently, I'm immersed in learning JAVA and Python. The passion for technology drives me to explore and understand 
+    and currently, I'm immersed in learning HTML5, DJANGO, JAVA and Python. The passion for technology drives me to explore and understand 
     more about the vast universe of programming.**
 
 🌱 **I'm currently in a phase of constant growth and development. I feel there is so much to learn, and I'm excited about 
